@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PraticeDbFirst2.props" />
+</Project>
